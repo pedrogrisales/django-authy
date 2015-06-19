@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+recursive-include authy/static *
+recursive-include authy/templates *
+recursive-include authy/migrations *
+recursive-include docs *
